@@ -10,20 +10,20 @@ namespace MinhaClasse {
 
             Console.WriteLine("Dados da primeira pessoa:");
             Console.Write("nome: ");
-            p1.nome = Console.ReadLine();
+            p1.Nome = Console.ReadLine();
             Console.Write("idade: ");
-            p1.idade = int.Parse(Console.ReadLine());
+            p1.Idade = int.Parse(Console.ReadLine());
             Console.WriteLine("Dados da segunda pessoa:");
             Console.Write("nome: ");
-            p2.nome = Console.ReadLine();
+            p2.Nome = Console.ReadLine();
             Console.Write("idade: ");
-            p2.idade = int.Parse(Console.ReadLine());
+            p2.Idade = int.Parse(Console.ReadLine());
 
             if (p1.idade > p2.idade) {
-                Console.WriteLine("Pessoa mais velha: " + p1.nome);
+                Console.WriteLine("Pessoa mais velha: " + p1.Nome);
             }
             else {
-                Console.WriteLine("Pessoa mais velha: " + p2.nome);
+                Console.WriteLine("Pessoa mais velha: " + p2.Nome);
             }
         }
     }
