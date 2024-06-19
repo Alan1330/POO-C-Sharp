@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\bin\Debug\net8.0\MinhaClasse.exe
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\bin\Debug\net8.0\MinhaClasse.deps.json
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\bin\Debug\net8.0\MinhaClasse.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\bin\Debug\net8.0\MinhaClasse.dll
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\bin\Debug\net8.0\MinhaClasse.pdb
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.dll
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\refint\MinhaClasse.dll
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.pdb
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\MinhaClasse.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\MinhaClasse\obj\Debug\net8.0\ref\MinhaClasse.dll
