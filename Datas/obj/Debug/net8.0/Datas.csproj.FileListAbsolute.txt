@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\bin\Debug\net8.0\Datas.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\bin\Debug\net8.0\Datas.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\bin\Debug\net8.0\Datas.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\bin\Debug\net8.0\Datas.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\bin\Debug\net8.0\Datas.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\refint\Datas.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Datas\obj\Debug\net8.0\ref\Datas.dll
