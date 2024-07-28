@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\bin\Debug\net8.0\Aula48Estaticos01.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\bin\Debug\net8.0\Aula48Estaticos01.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\bin\Debug\net8.0\Aula48Estaticos01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\bin\Debug\net8.0\Aula48Estaticos01.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\bin\Debug\net8.0\Aula48Estaticos01.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\refint\Aula48Estaticos01.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\Aula48Estaticos01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula48Estaticos01\obj\Debug\net8.0\ref\Aula48Estaticos01.dll

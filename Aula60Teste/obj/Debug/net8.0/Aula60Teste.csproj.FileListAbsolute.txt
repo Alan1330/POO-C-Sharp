@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\bin\Debug\net8.0\Aula60Teste.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\bin\Debug\net8.0\Aula60Teste.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\bin\Debug\net8.0\Aula60Teste.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\bin\Debug\net8.0\Aula60Teste.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\bin\Debug\net8.0\Aula60Teste.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\refint\Aula60Teste.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\Aula60Teste.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula60Teste\obj\Debug\net8.0\ref\Aula60Teste.dll

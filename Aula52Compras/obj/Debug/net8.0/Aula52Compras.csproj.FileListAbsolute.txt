@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\bin\Debug\net8.0\Aula52Compras.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\bin\Debug\net8.0\Aula52Compras.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\bin\Debug\net8.0\Aula52Compras.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\bin\Debug\net8.0\Aula52Compras.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\bin\Debug\net8.0\Aula52Compras.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\refint\Aula52Compras.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\Aula52Compras.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula52Compras\obj\Debug\net8.0\ref\Aula52Compras.dll

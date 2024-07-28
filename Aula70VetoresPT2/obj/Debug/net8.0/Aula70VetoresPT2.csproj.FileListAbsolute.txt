@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\bin\Debug\net8.0\Aula70VetoresPT2.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\bin\Debug\net8.0\Aula70VetoresPT2.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\bin\Debug\net8.0\Aula70VetoresPT2.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\bin\Debug\net8.0\Aula70VetoresPT2.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\bin\Debug\net8.0\Aula70VetoresPT2.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\refint\Aula70VetoresPT2.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\Aula70VetoresPT2.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula70VetoresPT2\obj\Debug\net8.0\ref\Aula70VetoresPT2.dll

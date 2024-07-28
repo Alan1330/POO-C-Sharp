@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\bin\Debug\net8.0\Aula45Ex03.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\bin\Debug\net8.0\Aula45Ex03.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\bin\Debug\net8.0\Aula45Ex03.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\bin\Debug\net8.0\Aula45Ex03.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\bin\Debug\net8.0\Aula45Ex03.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\refint\Aula45Ex03.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\Aula45Ex03.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula45Ex03\obj\Debug\net8.0\ref\Aula45Ex03.dll

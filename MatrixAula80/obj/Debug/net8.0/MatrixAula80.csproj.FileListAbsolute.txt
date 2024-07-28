@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\bin\Debug\net8.0\MatrixAula80.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\bin\Debug\net8.0\MatrixAula80.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\bin\Debug\net8.0\MatrixAula80.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\bin\Debug\net8.0\MatrixAula80.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\bin\Debug\net8.0\MatrixAula80.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\refint\MatrixAula80.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\MatrixAula80.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrixAula80\obj\Debug\net8.0\ref\MatrixAula80.dll

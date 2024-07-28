@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\bin\Debug\net8.0\Geral.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\bin\Debug\net8.0\Geral.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\bin\Debug\net8.0\Geral.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\bin\Debug\net8.0\Geral.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\bin\Debug\net8.0\Geral.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\refint\Geral.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\Geral.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Geral\obj\Debug\net8.0\ref\Geral.dll

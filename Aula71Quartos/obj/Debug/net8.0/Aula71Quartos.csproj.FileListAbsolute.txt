@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\bin\Debug\net8.0\Aula71Quartos.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\bin\Debug\net8.0\Aula71Quartos.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\bin\Debug\net8.0\Aula71Quartos.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\bin\Debug\net8.0\Aula71Quartos.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\bin\Debug\net8.0\Aula71Quartos.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\refint\Aula71Quartos.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\Aula71Quartos.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula71Quartos\obj\Debug\net8.0\ref\Aula71Quartos.dll

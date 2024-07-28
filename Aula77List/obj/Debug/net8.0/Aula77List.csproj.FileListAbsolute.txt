@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\bin\Debug\net8.0\Aula77List.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\bin\Debug\net8.0\Aula77List.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\bin\Debug\net8.0\Aula77List.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\bin\Debug\net8.0\Aula77List.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\bin\Debug\net8.0\Aula77List.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\refint\Aula77List.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\Aula77List.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Aula77List\obj\Debug\net8.0\ref\Aula77List.dll

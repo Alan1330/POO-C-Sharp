@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula48Estaticos01/1.0.0": {
+        "runtime": {
+          "Aula48Estaticos01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula48Estaticos01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

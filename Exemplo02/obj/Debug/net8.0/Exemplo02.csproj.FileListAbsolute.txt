@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\bin\Debug\net8.0\Exemplo02.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\bin\Debug\net8.0\Exemplo02.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\bin\Debug\net8.0\Exemplo02.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\bin\Debug\net8.0\Exemplo02.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\bin\Debug\net8.0\Exemplo02.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\refint\Exemplo02.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\Exemplo02.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Exemplo02\obj\Debug\net8.0\ref\Exemplo02.dll

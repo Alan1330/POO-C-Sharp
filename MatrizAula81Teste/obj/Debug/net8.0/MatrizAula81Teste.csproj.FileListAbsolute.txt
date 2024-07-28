@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\bin\Debug\net8.0\MatrizAula81Teste.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\bin\Debug\net8.0\MatrizAula81Teste.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\bin\Debug\net8.0\MatrizAula81Teste.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\bin\Debug\net8.0\MatrizAula81Teste.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\bin\Debug\net8.0\MatrizAula81Teste.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\refint\MatrizAula81Teste.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\MatrizAula81Teste.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\MatrizAula81Teste\obj\Debug\net8.0\ref\MatrizAula81Teste.dll

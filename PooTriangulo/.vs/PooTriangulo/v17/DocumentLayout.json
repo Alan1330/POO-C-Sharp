@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\ws-csharp\\projetos\\POO-C-Sharp\\PooTriangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F809CB-07D2-4E49-AFF7-7A6095C30A50}|PooTriangulo.csproj|d:\\dev\\ws-csharp\\projetos\\poo-c-sharp\\pootriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F809CB-07D2-4E49-AFF7-7A6095C30A50}|PooTriangulo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F809CB-07D2-4E49-AFF7-7A6095C30A50}|PooTriangulo.csproj|d:\\dev\\ws-csharp\\projetos\\poo-c-sharp\\pootriangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F809CB-07D2-4E49-AFF7-7A6095C30A50}|PooTriangulo.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "D:\\dev\\ws-csharp\\projetos\\POO-C-Sharp\\PooTriangulo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "D:\\dev\\ws-csharp\\projetos\\POO-C-Sharp\\PooTriangulo\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:15:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\ws-csharp\\projetos\\POO-C-Sharp\\PooTriangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dev\\ws-csharp\\projetos\\POO-C-Sharp\\PooTriangulo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:13:11.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

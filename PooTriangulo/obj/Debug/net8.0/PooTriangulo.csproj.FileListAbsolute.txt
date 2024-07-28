@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\bin\Debug\net8.0\PooTriangulo.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\bin\Debug\net8.0\PooTriangulo.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\bin\Debug\net8.0\PooTriangulo.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\bin\Debug\net8.0\PooTriangulo.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\bin\Debug\net8.0\PooTriangulo.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\refint\PooTriangulo.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\PooTriangulo.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\PooTriangulo\obj\Debug\net8.0\ref\PooTriangulo.dll

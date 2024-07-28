@@ -1,0 +1,15 @@
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\bin\Debug\net8.0\Compras.exe
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\bin\Debug\net8.0\Compras.deps.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\bin\Debug\net8.0\Compras.runtimeconfig.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\bin\Debug\net8.0\Compras.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\bin\Debug\net8.0\Compras.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.sourcelink.json
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\refint\Compras.dll
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.pdb
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\Compras.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\POO-C-Sharp\Compras\obj\Debug\net8.0\ref\Compras.dll
